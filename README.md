@@ -1,1 +1,1 @@
-This is your Chrome extension which replaces “alt-right” with “neo-Nazi,” because their rebranding of hate shouldn’t obfuscate what they are and now more than ever words matter. 
+This is a Chrome extension that replaces the phrase “alt-right” with “neo-Nazi” while you browse, because their rebranding of hate shouldn’t obfuscate what they are and, now more than ever, words matter. This won’t change anything but what you see, but if that lowers your blood pressure enough that you can go out an effect real change, that’s enough.
